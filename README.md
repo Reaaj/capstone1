@@ -1,3 +1,3 @@
 # capstone1
 
-Edited my copyright and added Multitasking to skills
+Edited my Copyright and added Multitasking to skills
